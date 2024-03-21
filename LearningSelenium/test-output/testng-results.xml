@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully navigated to HomePage]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to My account - Customer info page successfully]]>
+    </line>
+    <line>
+      <![CDATA[Loged out successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got closed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully navigated to HomePage]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Gift Cards page successfully]]>
+    </line>
+    <line>
+      <![CDATA[Loged out successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got closed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully navigated to HomePage]]>
+    </line>
+    <line>
+      <![CDATA[Failed to navigate to Shopping cart page]]>
+    </line>
+    <line>
+      <![CDATA[Loged out successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got closed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully navigated to HomePage]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Wishlist page successfully]]>
+    </line>
+    <line>
+      <![CDATA[Loged out successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got closed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully navigated to HomePage]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to computers page successfully]]>
+    </line>
+    <line>
+      <![CDATA[Loged out successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got closed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully navigated to HomePage]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to books page successfully]]>
+    </line>
+    <line>
+      <![CDATA[Loged out successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got closed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully navigated to HomePage]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Apparel & Shoes page successfully]]>
+    </line>
+    <line>
+      <![CDATA[Loged out successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got closed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully navigated to HomePage]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Electronics page successfully]]>
+    </line>
+    <line>
+      <![CDATA[Loged out successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got closed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully navigated to HomePage]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Jewelry page successfully]]>
+    </line>
+    <line>
+      <![CDATA[Loged out successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got closed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully navigated to HomePage]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Digital downloads page successfully]]>
+    </line>
+    <line>
+      <![CDATA[Loged out successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got closed successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-12-28T23:29:37 IST" name="Suite" finished-at="2023-12-28T23:31:26 IST" duration-ms="109852">
+    <groups>
+    </groups>
+    <test started-at="2023-12-28T23:29:37 IST" name="Test" finished-at="2023-12-28T23:31:26 IST" duration-ms="109852">
+      <class name="advanceSelenium.TC_DWS_009">
+        <test-method is-config="true" signature="toLaunch()[pri:0, instance:advanceSelenium.TC_DWS_009@59474f18]" started-at="2023-12-28T23:30:01 IST" name="toLaunch" finished-at="2023-12-28T23:30:05 IST" duration-ms="3996" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:advanceSelenium.TC_DWS_009@59474f18]" started-at="2023-12-28T23:30:05 IST" name="toLogin" finished-at="2023-12-28T23:30:09 IST" duration-ms="4258" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully navigated to HomePage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toNavigateToShoppingCartPage()[pri:0, instance:advanceSelenium.TC_DWS_009@59474f18]" started-at="2023-12-28T23:30:09 IST" name="toNavigateToShoppingCartPage" finished-at="2023-12-28T23:30:10 IST" duration-ms="687" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Failed to navigate to Shopping cart page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toNavigateToShoppingCartPage -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:advanceSelenium.TC_DWS_009@59474f18]" started-at="2023-12-28T23:30:10 IST" name="toLogout" finished-at="2023-12-28T23:30:11 IST" duration-ms="874" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Loged out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toCloseBrowser()[pri:0, instance:advanceSelenium.TC_DWS_009@59474f18]" started-at="2023-12-28T23:30:11 IST" name="toCloseBrowser" finished-at="2023-12-28T23:30:11 IST" duration-ms="500" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got closed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCloseBrowser -->
+      </class> <!-- advanceSelenium.TC_DWS_009 -->
+      <class name="advanceSelenium.TC_DWS_010">
+        <test-method is-config="true" signature="toLaunch()[pri:0, instance:advanceSelenium.TC_DWS_010@65fb9ffc]" started-at="2023-12-28T23:30:11 IST" name="toLaunch" finished-at="2023-12-28T23:30:15 IST" duration-ms="3987" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:advanceSelenium.TC_DWS_010@65fb9ffc]" started-at="2023-12-28T23:30:15 IST" name="toLogin" finished-at="2023-12-28T23:30:19 IST" duration-ms="4132" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully navigated to HomePage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toNavigateToWishlistPage()[pri:0, instance:advanceSelenium.TC_DWS_010@65fb9ffc]" started-at="2023-12-28T23:30:19 IST" name="toNavigateToWishlistPage" finished-at="2023-12-28T23:30:20 IST" duration-ms="561" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to Wishlist page successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toNavigateToWishlistPage -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:advanceSelenium.TC_DWS_010@65fb9ffc]" started-at="2023-12-28T23:30:20 IST" name="toLogout" finished-at="2023-12-28T23:30:21 IST" duration-ms="829" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Loged out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toCloseBrowser()[pri:0, instance:advanceSelenium.TC_DWS_010@65fb9ffc]" started-at="2023-12-28T23:30:21 IST" name="toCloseBrowser" finished-at="2023-12-28T23:30:21 IST" duration-ms="700" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got closed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCloseBrowser -->
+      </class> <!-- advanceSelenium.TC_DWS_010 -->
+      <class name="advanceSelenium.TC_DWS_004">
+        <test-method is-config="true" signature="toLaunch()[pri:0, instance:advanceSelenium.TC_DWS_004@78691363]" started-at="2023-12-28T23:30:43 IST" name="toLaunch" finished-at="2023-12-28T23:30:47 IST" duration-ms="3973" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:advanceSelenium.TC_DWS_004@78691363]" started-at="2023-12-28T23:30:47 IST" name="toLogin" finished-at="2023-12-28T23:30:51 IST" duration-ms="4293" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully navigated to HomePage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toNavigateToApparelsAndShoesPage()[pri:0, instance:advanceSelenium.TC_DWS_004@78691363]" started-at="2023-12-28T23:30:51 IST" name="toNavigateToApparelsAndShoesPage" finished-at="2023-12-28T23:30:52 IST" duration-ms="967" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to Apparel & Shoes page successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toNavigateToApparelsAndShoesPage -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:advanceSelenium.TC_DWS_004@78691363]" started-at="2023-12-28T23:30:52 IST" name="toLogout" finished-at="2023-12-28T23:30:53 IST" duration-ms="806" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Loged out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toCloseBrowser()[pri:0, instance:advanceSelenium.TC_DWS_004@78691363]" started-at="2023-12-28T23:30:53 IST" name="toCloseBrowser" finished-at="2023-12-28T23:30:53 IST" duration-ms="434" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got closed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCloseBrowser -->
+      </class> <!-- advanceSelenium.TC_DWS_004 -->
+      <class name="advanceSelenium.TC_DWS_003">
+        <test-method is-config="true" signature="toLaunch()[pri:0, instance:advanceSelenium.TC_DWS_003@41d477ed]" started-at="2023-12-28T23:30:53 IST" name="toLaunch" finished-at="2023-12-28T23:30:57 IST" duration-ms="3926" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:advanceSelenium.TC_DWS_003@41d477ed]" started-at="2023-12-28T23:30:57 IST" name="toLogin" finished-at="2023-12-28T23:31:01 IST" duration-ms="4260" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully navigated to HomePage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toNavigateToElectronicsPage()[pri:0, instance:advanceSelenium.TC_DWS_003@41d477ed]" started-at="2023-12-28T23:31:01 IST" name="toNavigateToElectronicsPage" finished-at="2023-12-28T23:31:02 IST" duration-ms="864" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to Electronics page successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toNavigateToElectronicsPage -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:advanceSelenium.TC_DWS_003@41d477ed]" started-at="2023-12-28T23:31:02 IST" name="toLogout" finished-at="2023-12-28T23:31:04 IST" duration-ms="1988" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Loged out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toCloseBrowser()[pri:0, instance:advanceSelenium.TC_DWS_003@41d477ed]" started-at="2023-12-28T23:31:04 IST" name="toCloseBrowser" finished-at="2023-12-28T23:31:05 IST" duration-ms="522" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got closed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCloseBrowser -->
+      </class> <!-- advanceSelenium.TC_DWS_003 -->
+      <class name="advanceSelenium.TC_DWS_002">
+        <test-method is-config="true" signature="toLaunch()[pri:0, instance:advanceSelenium.TC_DWS_002@3e694b3f]" started-at="2023-12-28T23:30:21 IST" name="toLaunch" finished-at="2023-12-28T23:30:25 IST" duration-ms="3955" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:advanceSelenium.TC_DWS_002@3e694b3f]" started-at="2023-12-28T23:30:25 IST" name="toLogin" finished-at="2023-12-28T23:30:30 IST" duration-ms="4157" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully navigated to HomePage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toNavigateToComputersPage()[pri:0, instance:advanceSelenium.TC_DWS_002@3e694b3f]" started-at="2023-12-28T23:30:30 IST" name="toNavigateToComputersPage" finished-at="2023-12-28T23:30:30 IST" duration-ms="805" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to computers page successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toNavigateToComputersPage -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:advanceSelenium.TC_DWS_002@3e694b3f]" started-at="2023-12-28T23:30:30 IST" name="toLogout" finished-at="2023-12-28T23:30:31 IST" duration-ms="815" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Loged out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toCloseBrowser()[pri:0, instance:advanceSelenium.TC_DWS_002@3e694b3f]" started-at="2023-12-28T23:30:31 IST" name="toCloseBrowser" finished-at="2023-12-28T23:30:32 IST" duration-ms="665" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got closed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCloseBrowser -->
+      </class> <!-- advanceSelenium.TC_DWS_002 -->
+      <class name="advanceSelenium.TC_DWS_001">
+        <test-method is-config="true" signature="toLaunch()[pri:0, instance:advanceSelenium.TC_DWS_001@1bb5a082]" started-at="2023-12-28T23:30:32 IST" name="toLaunch" finished-at="2023-12-28T23:30:36 IST" duration-ms="3955" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:advanceSelenium.TC_DWS_001@1bb5a082]" started-at="2023-12-28T23:30:36 IST" name="toLogin" finished-at="2023-12-28T23:30:40 IST" duration-ms="4604" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully navigated to HomePage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toNavigateToBooksPage()[pri:0, instance:advanceSelenium.TC_DWS_001@1bb5a082]" started-at="2023-12-28T23:30:40 IST" name="toNavigateToBooksPage" finished-at="2023-12-28T23:30:41 IST" duration-ms="928" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to books page successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toNavigateToBooksPage -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:advanceSelenium.TC_DWS_001@1bb5a082]" started-at="2023-12-28T23:30:41 IST" name="toLogout" finished-at="2023-12-28T23:30:42 IST" duration-ms="892" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Loged out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toCloseBrowser()[pri:0, instance:advanceSelenium.TC_DWS_001@1bb5a082]" started-at="2023-12-28T23:30:42 IST" name="toCloseBrowser" finished-at="2023-12-28T23:30:43 IST" duration-ms="417" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got closed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCloseBrowser -->
+      </class> <!-- advanceSelenium.TC_DWS_001 -->
+      <class name="advanceSelenium.TC_DWS_008">
+        <test-method is-config="true" signature="toLaunch()[pri:0, instance:advanceSelenium.TC_DWS_008@5656be13]" started-at="2023-12-28T23:29:37 IST" name="toLaunch" finished-at="2023-12-28T23:29:43 IST" duration-ms="6148" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:advanceSelenium.TC_DWS_008@5656be13]" started-at="2023-12-28T23:29:43 IST" name="toLogin" finished-at="2023-12-28T23:29:48 IST" duration-ms="4839" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully navigated to HomePage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toNavigateToMyAccountPage()[pri:0, instance:advanceSelenium.TC_DWS_008@5656be13]" started-at="2023-12-28T23:29:48 IST" name="toNavigateToMyAccountPage" finished-at="2023-12-28T23:29:48 IST" duration-ms="655" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to My account - Customer info page successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toNavigateToMyAccountPage -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:advanceSelenium.TC_DWS_008@5656be13]" started-at="2023-12-28T23:29:48 IST" name="toLogout" finished-at="2023-12-28T23:29:49 IST" duration-ms="1035" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Loged out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toCloseBrowser()[pri:0, instance:advanceSelenium.TC_DWS_008@5656be13]" started-at="2023-12-28T23:29:49 IST" name="toCloseBrowser" finished-at="2023-12-28T23:29:50 IST" duration-ms="530" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got closed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCloseBrowser -->
+      </class> <!-- advanceSelenium.TC_DWS_008 -->
+      <class name="advanceSelenium.TC_DWS_007">
+        <test-method is-config="true" signature="toLaunch()[pri:0, instance:advanceSelenium.TC_DWS_007@34123d65]" started-at="2023-12-28T23:29:50 IST" name="toLaunch" finished-at="2023-12-28T23:29:54 IST" duration-ms="4263" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:advanceSelenium.TC_DWS_007@34123d65]" started-at="2023-12-28T23:29:54 IST" name="toLogin" finished-at="2023-12-28T23:29:58 IST" duration-ms="4099" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully navigated to HomePage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toNavigateToGiftsCardPage()[pri:0, instance:advanceSelenium.TC_DWS_007@34123d65]" started-at="2023-12-28T23:29:58 IST" name="toNavigateToGiftsCardPage" finished-at="2023-12-28T23:29:59 IST" duration-ms="798" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to Gift Cards page successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toNavigateToGiftsCardPage -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:advanceSelenium.TC_DWS_007@34123d65]" started-at="2023-12-28T23:29:59 IST" name="toLogout" finished-at="2023-12-28T23:30:00 IST" duration-ms="1396" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Loged out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toCloseBrowser()[pri:0, instance:advanceSelenium.TC_DWS_007@34123d65]" started-at="2023-12-28T23:30:00 IST" name="toCloseBrowser" finished-at="2023-12-28T23:30:01 IST" duration-ms="548" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got closed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCloseBrowser -->
+      </class> <!-- advanceSelenium.TC_DWS_007 -->
+      <class name="advanceSelenium.TC_DWS_006">
+        <test-method is-config="true" signature="toLaunch()[pri:0, instance:advanceSelenium.TC_DWS_006@3590fc5b]" started-at="2023-12-28T23:31:05 IST" name="toLaunch" finished-at="2023-12-28T23:31:09 IST" duration-ms="3970" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:advanceSelenium.TC_DWS_006@3590fc5b]" started-at="2023-12-28T23:31:09 IST" name="toLogin" finished-at="2023-12-28T23:31:13 IST" duration-ms="4293" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully navigated to HomePage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toNavigateToJewelryPage()[pri:0, instance:advanceSelenium.TC_DWS_006@3590fc5b]" started-at="2023-12-28T23:31:13 IST" name="toNavigateToJewelryPage" finished-at="2023-12-28T23:31:14 IST" duration-ms="953" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to Jewelry page successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toNavigateToJewelryPage -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:advanceSelenium.TC_DWS_006@3590fc5b]" started-at="2023-12-28T23:31:14 IST" name="toLogout" finished-at="2023-12-28T23:31:15 IST" duration-ms="1142" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Loged out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toCloseBrowser()[pri:0, instance:advanceSelenium.TC_DWS_006@3590fc5b]" started-at="2023-12-28T23:31:15 IST" name="toCloseBrowser" finished-at="2023-12-28T23:31:16 IST" duration-ms="489" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got closed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCloseBrowser -->
+      </class> <!-- advanceSelenium.TC_DWS_006 -->
+      <class name="advanceSelenium.TC_DWS_005">
+        <test-method is-config="true" signature="toLaunch()[pri:0, instance:advanceSelenium.TC_DWS_005@397fbdb]" started-at="2023-12-28T23:31:16 IST" name="toLaunch" finished-at="2023-12-28T23:31:20 IST" duration-ms="3966" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:advanceSelenium.TC_DWS_005@397fbdb]" started-at="2023-12-28T23:31:20 IST" name="toLogin" finished-at="2023-12-28T23:31:24 IST" duration-ms="4792" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully navigated to HomePage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toNavigateToDigitalDownloadsPage()[pri:0, instance:advanceSelenium.TC_DWS_005@397fbdb]" started-at="2023-12-28T23:31:24 IST" name="toNavigateToDigitalDownloadsPage" finished-at="2023-12-28T23:31:25 IST" duration-ms="796" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to Digital downloads page successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toNavigateToDigitalDownloadsPage -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:advanceSelenium.TC_DWS_005@397fbdb]" started-at="2023-12-28T23:31:25 IST" name="toLogout" finished-at="2023-12-28T23:31:26 IST" duration-ms="824" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Loged out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toCloseBrowser()[pri:0, instance:advanceSelenium.TC_DWS_005@397fbdb]" started-at="2023-12-28T23:31:26 IST" name="toCloseBrowser" finished-at="2023-12-28T23:31:26 IST" duration-ms="439" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got closed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCloseBrowser -->
+      </class> <!-- advanceSelenium.TC_DWS_005 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

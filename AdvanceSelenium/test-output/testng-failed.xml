@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="page_Object_Model.Test_Class">
+        <methods>
+          <include name="shoppingCart"/>
+          <include name="disconnectServer"/>
+          <include name="disConnection"/>
+          <include name="openBrowser"/>
+          <include name="logout"/>
+          <include name="cloneBroswer"/>
+          <include name="checkout"/>
+          <include name="connectionDB"/>
+          <include name="connectServer"/>
+        </methods>
+      </class> <!-- page_Object_Model.Test_Class -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

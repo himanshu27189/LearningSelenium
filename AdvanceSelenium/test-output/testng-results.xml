@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Connection to the server]]>
+    </line>
+    <line>
+      <![CDATA[Connection to the database]]>
+    </line>
+    <line>
+      <![CDATA[Open in the browser]]>
+    </line>
+    <line>
+      <![CDATA[Login done]]>
+    </line>
+    <line>
+      <![CDATA[Logout from the application]]>
+    </line>
+    <line>
+      <![CDATA[Item added to the cart]]>
+    </line>
+    <line>
+      <![CDATA[Logout from the application]]>
+    </line>
+    <line>
+      <![CDATA[Logout from the application]]>
+    </line>
+    <line>
+      <![CDATA[Your order has been placed]]>
+    </line>
+    <line>
+      <![CDATA[Logout from the application]]>
+    </line>
+    <line>
+      <![CDATA[Clone the broswer]]>
+    </line>
+    <line>
+      <![CDATA[Disconnection from DB]]>
+    </line>
+    <line>
+      <![CDATA[Disconnection from the server]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-02-09T15:28:26 IST" name="Default suite" finished-at="2024-02-09T15:28:45 IST" duration-ms="19408">
+    <groups>
+    </groups>
+    <test started-at="2024-02-09T15:28:26 IST" name="Default test" finished-at="2024-02-09T15:28:45 IST" duration-ms="19408">
+      <class name="page_Object_Model.Test_Class">
+        <test-method is-config="true" signature="connectServer()[pri:0, instance:page_Object_Model.Test_Class@3b69e7d1]" started-at="2024-02-09T15:28:26 IST" name="connectServer" finished-at="2024-02-09T15:28:26 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Connection to the server]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- connectServer -->
+        <test-method is-config="true" signature="connectionDB()[pri:0, instance:page_Object_Model.Test_Class@3b69e7d1]" started-at="2024-02-09T15:28:26 IST" name="connectionDB" finished-at="2024-02-09T15:28:26 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Connection to the database]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- connectionDB -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:page_Object_Model.Test_Class@3b69e7d1]" started-at="2024-02-09T15:28:26 IST" name="openBrowser" finished-at="2024-02-09T15:28:37 IST" duration-ms="10641" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Open in the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="login()[pri:1, instance:page_Object_Model.Test_Class@3b69e7d1]" started-at="2024-02-09T15:28:37 IST" name="login" finished-at="2024-02-09T15:28:39 IST" duration-ms="2108" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:page_Object_Model.Test_Class@3b69e7d1]" started-at="2024-02-09T15:28:39 IST" name="logout" finished-at="2024-02-09T15:28:39 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="digital_Downloads()[pri:2, instance:page_Object_Model.Test_Class@3b69e7d1]" started-at="2024-02-09T15:28:39 IST" name="digital_Downloads" finished-at="2024-02-09T15:28:40 IST" duration-ms="987" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Item added to the cart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- digital_Downloads -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:page_Object_Model.Test_Class@3b69e7d1]" started-at="2024-02-09T15:28:40 IST" name="logout" finished-at="2024-02-09T15:28:40 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="shoppingCart()[pri:3, instance:page_Object_Model.Test_Class@3b69e7d1]" started-at="2024-02-09T15:28:40 IST" name="shoppingCart" finished-at="2024-02-09T15:28:42 IST" duration-ms="2486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingCart -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:page_Object_Model.Test_Class@3b69e7d1]" started-at="2024-02-09T15:28:42 IST" name="logout" finished-at="2024-02-09T15:28:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="checkout()[pri:4, instance:page_Object_Model.Test_Class@3b69e7d1]" started-at="2024-02-09T15:28:42 IST" name="checkout" finished-at="2024-02-09T15:28:45 IST" duration-ms="2656" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Your order has been placed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:page_Object_Model.Test_Class@3b69e7d1]" started-at="2024-02-09T15:28:45 IST" name="logout" finished-at="2024-02-09T15:28:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="cloneBroswer()[pri:0, instance:page_Object_Model.Test_Class@3b69e7d1]" started-at="2024-02-09T15:28:45 IST" name="cloneBroswer" finished-at="2024-02-09T15:28:45 IST" duration-ms="400" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clone the broswer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cloneBroswer -->
+        <test-method is-config="true" signature="disConnection()[pri:0, instance:page_Object_Model.Test_Class@3b69e7d1]" started-at="2024-02-09T15:28:45 IST" name="disConnection" finished-at="2024-02-09T15:28:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Disconnection from DB]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- disConnection -->
+        <test-method is-config="true" signature="disconnectServer()[pri:0, instance:page_Object_Model.Test_Class@3b69e7d1]" started-at="2024-02-09T15:28:45 IST" name="disconnectServer" finished-at="2024-02-09T15:28:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Disconnection from the server]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- disconnectServer -->
+      </class> <!-- page_Object_Model.Test_Class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
